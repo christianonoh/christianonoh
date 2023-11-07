@@ -10,7 +10,7 @@ Hi, I'm Christian Onoh, and I'm from Nigeria. For the past two years, I've been 
 If you'd like to get in touch or have any questions, don't hesitate to reach out. I'm eager to get started and thrilled to connect with like-minded individuals who are passionate about learning.
 
 
-## about me
+## 🙎🏾‍♂️ about me
 - 📚 **Learning:** At the moment, my focus is on mastering [TailwindCSS](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/), and [NextJS](https://nextjs.org/)
 - 🛠️ **Working On:** [NGWOROCKS](https://github.com/christianonoh/ngworocks)
 - 🌟 **Hobbies:** I love listening to music, playing FIFA, traveling and exploring dishes.
