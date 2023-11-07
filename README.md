@@ -27,7 +27,7 @@ If you'd like to get in touch or have any questions, don't hesitate to reach out
 
 ## ✍🏾 random dev quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🏆 github trophies
