@@ -12,7 +12,7 @@ If you'd like to get in touch or have any questions, don't hesitate to reach out
 
 ## 🙎🏾‍♂️ about me
 - 📚 **Learning:** At the moment, my focus is on mastering [TailwindCSS](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/), and [NextJS](https://nextjs.org/)
-- 🛠️ **Working On:** [NGWOROCKS](https://github.com/christianonoh/ngworocks)
+- 🛠️ **Working On:** [NGWOROCKS](https://ngworocks.vercel.app/)
 - 🌟 **Hobbies:** I love listening to music, playing FIFA, traveling and exploring dishes.
 
 
