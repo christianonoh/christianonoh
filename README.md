@@ -11,8 +11,8 @@ If you'd like to get in touch or have any questions, don't hesitate to reach out
 
 
 ## 🙎🏾‍♂️ about me
-- 📚 **Learning:** At the moment, my focus is on mastering [TailwindCSS](https://tailwindcss.com/), [TypeScript](https://www.typescriptlang.org/), and [NextJS](https://nextjs.org/)
-- 🛠️ **Working On:** [NGWOROCKS](https://ngworocks.vercel.app/)
+- 📚 **Learning:** At the moment, my focus is on mastering [Laravel](https://laravel.com/), [PHP](https://www.typescriptlang.org/), and [Angular JS](https://angularjs.org/)
+- 🛠️ **Working On:** [Movie Connect](https://github.com/Adedotun-Adepoju/movie-connect)
 - 🌟 **Hobbies:** I love listening to music, playing FIFA, traveling and exploring dishes.
 
 
